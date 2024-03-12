@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.5c868a8b.js",
+    "static/media/naveen.jpg": "/static/media/naveen.99cdf31a32779037a4f7.jpg",
+    "static/media/ven.jpg": "/static/media/ven.798f2774bc5d8fcbfd29.jpg",
+    "static/media/ugc.jpg": "/static/media/ugc.2db7f7e74fe6bd5db1c7.jpg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.5c868a8b.js.map": "/static/js/main.5c868a8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5c868a8b.js"
+  ]
+}
